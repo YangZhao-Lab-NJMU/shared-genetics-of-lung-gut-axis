@@ -1,0 +1,50 @@
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "You"
+  given-names: "Dongfang"
+  orcid: "https://orcid.org/0000-0002-0856-0323"
+- family-names: "Wu"
+  given-names: "Yaqian"
+- family-names: "Lu"
+  given-names: "Mengyi"
+- family-names: "Shao"
+  given-names: "Fang"
+- family-names: "Tang"
+  given-names: "Yingdan"
+- family-names: "Liu"
+  given-names: "Sisi"
+- family-names: "Liu"
+  given-names: "Liya"
+- family-names: "Zhou"
+  given-names: "Zewei"
+- family-names: "Zhang"
+  given-names: "Ruyang"
+- family-names: "Shen"
+  given-names: "Sipeng"
+- family-names: "Lange"
+  given-names: "Theis"
+- family-names: "Xu"
+  given-names: "Hongyang"
+- family-names: "Ma"
+  given-names: "Hongxia"
+- family-names: "Yin"
+  given-names: "Yongmei"
+- family-names: "Shen"
+  given-names: "Hongbing"
+- family-names: "Chen"
+  given-names: "Feng"
+- family-names: "Christiani"
+  given-names: "David C."
+- family-names: "Jin"
+  given-names: "Guangfu"
+- family-names: Zhao
+  given-names: Yang
+  orcid: "https://orcid.org/0000-0003-1393-7567"
+title: "A genome-wide cross-trait analysis characterizes the shared genetic architecture between lung and gastrointestinal diseases"
+repository: "https://github.com/YangZhao-Lab-NJMU/shared-genetics-of-lung-gut-axis "
+doi: 10.5281/zenodo.14980029
+        
+        
+        
+        
+year: 2025
